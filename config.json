@@ -8,7 +8,7 @@
 	},
 	{
 		"name": "verus.farm (Quipacorn)",
-        "url": "stratum+tcp://sg.vipor.net:5040#xnsub,
+        "url": "stratum+tcp://sg.vipor.net:5040#xnsub",
 		"timeout": 60,
 		"time-limit": 600,
 		"disabled": 0
